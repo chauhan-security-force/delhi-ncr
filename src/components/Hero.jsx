@@ -12,11 +12,7 @@ function Hero() {
     >
       <div className="hero-content">
 
-        <div className="hero-badge">
-          <FaShieldAlt />
-          Trusted Security Agency
-        </div>
-
+       
         <h1>
           Trusted <span>Security Services</span>
           <br />

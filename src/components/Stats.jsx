@@ -2,12 +2,12 @@ function Stats() {
   return (
     <section className="stats">
       <div className="stat-card">
-        <h2>500+</h2>
+        <h2>50+</h2>
         <p>Security Guards</p>
       </div>
 
       <div className="stat-card">
-        <h2>100+</h2>
+        <h2>20+</h2>
         <p>Happy Clients</p>
       </div>
 
